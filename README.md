@@ -1,2 +1,2 @@
-# Harward
+# Harvard
 projects for CS50
